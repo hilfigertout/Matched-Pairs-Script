@@ -1,4 +1,4 @@
-# Matched-Pairs voting script
+# Matched-Pairs ranking script
 
 This program implements a system for a single user to rank items using a matched-pairs approach. 
 
