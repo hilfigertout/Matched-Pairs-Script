@@ -16,52 +16,52 @@ This script does not take any command line arguments.
 
 ## Example Output:
 
-> Enter name of input text file. (Blank line to enter candidates manually.)
-> example_input_file.txt
-> Answer each prompt with either "1" or "2".
-> Enter which of the two you prefer:
->     1: Option B
->     2: Option C
-> 1
-> Enter which of the two you prefer: 
->     1: Option B
->     2: Option A
-> 2
-> Enter which of the two you prefer: 
->     1: Option B
->     2: Option E
-> 1
-> Enter which of the two you prefer: 
->     1: Option B
->     2: Option D
-> 1
-> Enter which of the two you prefer: 
->     1: Option C
->     2: Option A
-> 2
-> Enter which of the two you prefer: 
->     1: Option C
->     2: Option E
-> 1
-> Enter which of the two you prefer: 
->     1: Option C
->     2: Option D
-> 1
-> Enter which of the two you prefer: 
->     1: Option A
->     2: Option E
-> 1
-> Enter which of the two you prefer: 
->     1: Option A
->     2: Option D
-> 1
-> Enter which of the two you prefer: 
->     1: Option E
->     2: Option D
-> 2
-> RANKED RESULTS (Option: Score)
-> Option A: 4
-> Option B: 3
-> Option C: 2
-> Option D: 1
-> Option E: 0
+    Enter name of input text file. (Blank line to enter candidates manually.)
+    example_input_file.txt
+    Answer each prompt with either "1" or "2".
+    Enter which of the two you prefer:
+        1: Option B
+        2: Option C
+    1
+    Enter which of the two you prefer: 
+        1: Option B
+        2: Option A
+    2
+    Enter which of the two you prefer: 
+        1: Option B
+        2: Option E
+    1
+    Enter which of the two you prefer: 
+        1: Option B
+        2: Option D
+    1
+    Enter which of the two you prefer: 
+        1: Option C
+        2: Option A
+    2
+    Enter which of the two you prefer: 
+        1: Option C
+        2: Option E
+    1
+    Enter which of the two you prefer: 
+        1: Option C
+        2: Option D
+    1
+    Enter which of the two you prefer: 
+        1: Option A
+        2: Option E
+    1
+    Enter which of the two you prefer: 
+        1: Option A
+        2: Option D
+    1
+    Enter which of the two you prefer: 
+        1: Option E
+        2: Option D
+    2
+    RANKED RESULTS (Option: Score)
+    Option A: 4
+    Option B: 3
+    Option C: 2
+    Option D: 1
+    Option E: 0
