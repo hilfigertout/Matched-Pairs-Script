@@ -1,6 +1,6 @@
-# Matched-Pairs ranking script
+# Pairwise Comparison ranking script
 
-This program implements a system for a single user to rank items using a matched-pairs approach. 
+This program implements a system for a single user to rank items using a pairwise comparison approach. 
 
 The program takes in a list of options as strings (either from an input text file or entered manually), shuffles the list, and presents the user a pair of options. The user selects which option they prefer. That item gets 1 point. The program continues for every possible pairing of the options, then it presents the full list of options ranked by score, with the first item having the most points and the last item having the least points. (Scores are also shown.)
 
@@ -8,9 +8,9 @@ The program takes in a list of options as strings (either from an input text fil
 
 This program is implemented in Python. To run it, you will need the Python interpreter installed. 
 
-To run this program, simply open a termminal, navigate to the directory containing the matched-pairs.py script, and run the following:
+To run this program, simply open a termminal, navigate to the directory containing the pairwise-comparisons.py script, and run the following:
 
-> python3 matched-pairs.py
+> python3 pairwise-comparisons.py
 
 This script does not take any command line arguments.
 
