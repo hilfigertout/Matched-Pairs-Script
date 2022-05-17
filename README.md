@@ -8,7 +8,7 @@ The program takes in a list of options as strings (either from an input text fil
 
 This program is implemented in Python. To run it, you will need the Python interpreter installed. 
 
-To run this program, simply open a termminal, navigate to the directory containing the pairwise-comparisons.py script, and run the following:
+To run this program, simply open a terminal, navigate to the directory containing the pairwise-comparisons.py script, and run the following:
 
 > python3 pairwise-comparisons.py
 
